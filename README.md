@@ -1,2 +1,2 @@
-# imers-o-dados-python
+# imersao-dados-python
 Desenvolvido por Álvaro Rocha 
