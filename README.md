@@ -15,9 +15,13 @@ O projeto foi criado para praticar análise de dados, visualização e desenvolv
 🚀 Tecnologias Utilizadas
 
 Python 3
+
 Pandas
+
 Plotly
+
 Streamlit
+
 NumPy
 
 📈 Funcionalidades
