@@ -33,12 +33,19 @@ Interface simples e intuitiva
 Análise exploratória de dados
 
 📂 Estrutura do Projeto
+
 dashboard-interativo/
+
 │
+
 ├── app.py
+
 ├── data/
+
 │   └── dataset.csv
+
 ├── requirements.txt
+
 └── README.md
 
 ⚙️ Como Executar o Projeto
