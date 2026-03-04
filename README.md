@@ -43,6 +43,7 @@ git clone https://github.com/seu-usuario/dashboard-interativo.git
 
 Instale as dependências:
 pip install -r requirements.txt
+
 Execute a aplicação:
 streamlit run app.py
 
